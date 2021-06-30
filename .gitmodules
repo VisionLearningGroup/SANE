@@ -1,0 +1,3 @@
+[submodule "external/lime"]
+	path = external/lime
+	url = https://github.com/marcotcr/lime
